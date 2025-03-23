@@ -5,11 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.github.shivam9ronaldo7</groupId>
-    <artifactId>cucumber-report</artifactId>
-    <version>1.0.0-SNAPSHOT</version>
-    <name>Cucumber-Report</name>
-    <description>Cucumber Report</description>
-    <url>https://github.com/shivam9ronaldo7/cucumber-report</url>
+    <artifactId>cucu-report</artifactId>
+    <version>1.0.0-RELEASE</version>
+    <name>Cucu-Report</name>
+    <description>Cucu report for cucumber ndjson report</description>
+    <url>https://github.com/shivam9ronaldo7/cucu-report</url>
     <licenses>
         <license>
             <name>MIT License</name>
